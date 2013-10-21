@@ -4,7 +4,8 @@ Changelog
 4.3.2 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Added Spanish translation for for plone.app.caching addon
+  [macagua]
 
 
 4.3.1 (2013-05-08)
